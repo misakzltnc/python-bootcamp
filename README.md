@@ -1,2 +1,2 @@
 # python-bootcamp
-taş kağıt makas
+Değişkenler basit düzeyde kullanılarak taş kağıt makas oyununu içermektedir.
