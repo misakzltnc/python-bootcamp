@@ -1,0 +1,7 @@
+C:\Users\HBV\source\repos\RK4-2\bin\Debug\RK4-2.exe.config
+C:\Users\HBV\source\repos\RK4-2\bin\Debug\RK4-2.exe
+C:\Users\HBV\source\repos\RK4-2\bin\Debug\RK4-2.pdb
+C:\Users\HBV\source\repos\RK4-2\obj\Debug\RK4-2.csproj.AssemblyReference.cache
+C:\Users\HBV\source\repos\RK4-2\obj\Debug\RK4-2.csproj.CoreCompileInputs.cache
+C:\Users\HBV\source\repos\RK4-2\obj\Debug\RK4-2.exe
+C:\Users\HBV\source\repos\RK4-2\obj\Debug\RK4-2.pdb
